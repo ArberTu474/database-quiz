@@ -23,6 +23,12 @@
       "alternatives": ["US", "UK", "EU"],
       "answer": 2,
       "img": "https://i.ibb.co/QKhsPRV/Uk.webp"
+    },
+    {
+      "question": "How many countries are in the USA?",
+      "alternatives": ["55", "20", "35", "25", "60"],
+      "answer": 3,
+      "img": ""
     }
   ]
 }
